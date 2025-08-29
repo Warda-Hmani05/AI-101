@@ -1,0 +1,14 @@
+path: ..\pt2_dataset_50_2025-08-29
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 41
+names: ['apple', 'backpack', 'banana', 'bench', 'bicycle', 'book', 'bottle', 'bowl', 'broccoli', 'cake', 'car', 'carrot', 'cell phone', 'chair', 'clock', 'couch', 'cup', 'dining table', 'dog', 'fork', 'handbag', 'kite', 'knife', 'laptop', 'microwave', 'motorcycle', 'orange', 'oven', 'person', 'pizza', 'potted plant', 'refrigerator', 'sandwich', 'sink', 'spoon', 'suitcase', 'teddy bear', 'tv', 'umbrella', 'vase', 'wine glass']
+
+roboflow:
+  workspace: ai-z3xxd
+  project: my-first-project-dk5av
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/ai-z3xxd/my-first-project-dk5av/1
